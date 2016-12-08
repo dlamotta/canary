@@ -1,3 +1,3 @@
  <?php 
- echo "Hello world!  My Pod's IP is ".$_SERVER['SERVER_ADDR'] ;
+ echo "This is a canary.  My Pod's IP is ".$_SERVER['SERVER_ADDR'] ;
  ?>
