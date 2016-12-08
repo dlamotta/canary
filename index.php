@@ -1,3 +1,3 @@
  <?php 
- echo "This is a canary.  My Pod's IP is ".$_SERVER['SERVER_ADDR'] ;
+ echo "Legacy app running fine here. My Pod's IP is ".$_SERVER['SERVER_ADDR'] ;
  ?>
